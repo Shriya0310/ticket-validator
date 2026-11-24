@@ -55,3 +55,10 @@ All 5 test cases pass:
 - Invalid date
 - Invalid enum value
 - Empty CSV
+
+## Validation Output
+
+The validator logs the number of valid and invalid tickets.
+Invalid records include the row number and validation error.
+
+Test reports are saved in the reports folder.
