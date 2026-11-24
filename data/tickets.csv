@@ -1,0 +1,6 @@
+ticket_id,customer_name,equipment,issue_description,priority,status,created_at
+101,Rahul,Printer,Paper jam,High,Open,2026-11-20
+102,Ananya,Scanner,Not connecting,Medium,In Progress,2026-11-21
+103,Kiran,Monitor,Screen flickering,Low,Closed,2026-11-22
+104,Meera,Laptop,Battery issue,High,Open,2026-11-23
+105,Arjun,Router,Network issue,Medium,In Progress,2026-11-24
